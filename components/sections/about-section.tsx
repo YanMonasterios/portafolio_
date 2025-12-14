@@ -21,7 +21,7 @@ export function AboutSection() {
                   <div className="relative w-80 h-80 bg-gradient-to-br from-primary/20 to-accent/20">
                     <Image
                       src="/images/about/About.webp"
-                      alt="Daniel Uribe - Full-Stack Developer"
+                      alt="Yan Monasterios - Full-Stack Developer"
                       fill
                       className="object-cover"
                       priority

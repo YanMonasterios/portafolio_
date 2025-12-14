@@ -15,7 +15,7 @@ const projects = [
     demo: "#",
   },
   {
-    title: "API REST Escalable con Arquitectura Modular",
+    title: "lorem ipsum dolor sit amet",
     description: "Sistema de gestión de tareas con autenticación JWT avanzada, rate limiting personalizado y documentación interactiva.",
     highlights: ["JWT con refresh tokens", "Rate limiting por usuario", "Documentación Swagger interactiva"],
     tech: ["Java", "Spring Boot", "JWT", "MySQL"],
@@ -24,12 +24,12 @@ const projects = [
     demo: "#",
   },
   {
-    title: "Portafolio con Experiencia Inmersiva",
+    title: "Portafolio Personal",
     description:
-      "Sitio web personal con efectos visuales avanzados, tema adaptativo y formulario de contacto inteligente que se adapta al contexto del visitante.",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     highlights: ["Efectos visuales con Framer Motion", "Tema adaptativo automático", "Formulario contextual"],
     tech: ["Next.js", "TypeScript", "TailwindCSS", "Framer Motion"],
-    status: "Completado",
+    status: "Pendiente",
     github: "#",
     demo: "#",
   },
