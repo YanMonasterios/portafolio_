@@ -103,7 +103,7 @@ export function ContactSection() {
                     <li>✅ Pasión por aprender nuevas tecnologías</li>
                   </ul>
                   <Button asChild className="w-full">
-                    <a href="mailto:duribepulgar@gmail.com?subject=Consulta desde tu portafolio&body=Hola Daniel,%0D%0A%0D%0ATengo una consulta sobre...">
+                    <a href="mailto:yankevyn02@gmail.com?subject=Consulta desde tu portafolio&body=Hola Yan,%0D%0A%0D%0ATengo una consulta sobre...">
                       <Mail className="w-4 h-4 mr-2" />
                       Enviar Email Directo
                     </a>
