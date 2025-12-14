@@ -8,8 +8,8 @@ export function HeroSection() {
 
   const handleDownloadCV = () => {
     const link = document.createElement("a")
-    link.href = "https://github.com/FoTrix/portafolio/raw/master/public/archives/CV/Curriculum-daniel-uribe-2025.pdf"
-    link.download = "Curriculum-daniel-Uribe-Pulgar-2025.pdf"
+    link.href = "https://raw.githubusercontent.com/YanMonasterios/portafolio/main/public/archives/CV/CV-Yan-Monasterios-noviembre.pdf"
+    link.download = "Curriculum-Yan-Monasterios-2025.pdf"
     link.click()
     // not need return
   }
