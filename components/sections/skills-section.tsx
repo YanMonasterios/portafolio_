@@ -5,19 +5,19 @@ import Image from "next/image"
 const skillCategories = [
   {
     title: "Frontend Avanzado",
-    skills: ["React", "TypeScript", "JavaScript", "TailwindCSS", "Framer Motion", "Next.js", "HTML5", "CSS3"],
+    skills: ["React", "TypeScript", "JavaScript", "TailwindCSS", "Angular", "Next.js", "HTML5", "Chakra UI",],
     icon: "🎨",
     description: "Interfaces modernas y experiencias interactivas",
   },
   {
     title: "Backend Robusto",
-    skills: ["Java", "Spring Boot", "API REST", "MySQL", "JWT", "Node.js"],
+    skills: ["Java", "PostgreSQL", "MySQL", "JWT", "Node.js", "Python"],
     icon: "⚙️",
     description: "Arquitecturas escalables y APIs seguras",
   },
   {
     title: "DevOps & Tools",
-    skills: ["Git", "GitHub", "VS Code", "Postman", "Swagger", "Bun", "macOS"],
+    skills: ["Git", "GitHub", "VS Code", "Postman", "Swagger", "Docker"],
     icon: "🛠️",
     description: "Flujo de desarrollo optimizado y documentación",
   },
@@ -63,7 +63,7 @@ export function SkillsSection() {
               </Card>
             ))}
           </div>
-
+{/* 
           <div className="mt-16">
             <h3 className="text-2xl font-semibold mb-8 text-center text-primary">Formación Destacada</h3>
             <div className="grid md:grid-cols-2 gap-8">
@@ -111,7 +111,7 @@ export function SkillsSection() {
                 </CardContent>
               </Card>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>

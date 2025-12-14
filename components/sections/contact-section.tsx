@@ -78,16 +78,16 @@ export function ContactSection() {
                   <div className="flex items-center space-x-3">
                     <Mail className="w-5 h-5 text-primary" />
                     <a 
-                      href="mailto:duribepulgar@gmail.com" 
+                      href="mailto:yankevyn02@gmail.com" 
                       className="hover:text-primary transition-colors duration-200"
-                      aria-label="Enviar email a duribepulgar@gmail.com"
+                      aria-label="Enviar email a yankevyn02@gmail.com"
                     >
-                      duribepulgar@gmail.com
+                      yankevyn02@gmail.com
                     </a>
                   </div>
                   <div className="flex items-center space-x-3">
                     <MapPin className="w-5 h-5 text-primary" />
-                    <span>Chile</span>
+                    <span>Venezuela - Caracas</span>
                   </div>
                 </div>
               </div>

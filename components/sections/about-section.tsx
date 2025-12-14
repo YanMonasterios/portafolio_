@@ -35,7 +35,7 @@ export function AboutSection() {
             <div className="space-y-6">
               <div className="prose prose-lg dark:prose-invert max-w-none">
                 <p className="text-lg leading-relaxed">
-                  ¡Hola! ✌🏼 Soy <strong className="text-primary">Daniel Uribe</strong>, Full-Stack Developer especializado en 
+                  ¡Hola! ✌🏼 Soy <strong className="text-primary">Yan Monasterios</strong>, Full-Stack Developer especializado en 
                   <strong className="text-primary"> experiencias personalizadas</strong>. Mi enfoque va más allá del código: 
                   creo soluciones que se adaptan al comportamiento, contexto y necesidades específicas de cada usuario.
                 </p>
