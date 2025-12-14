@@ -5,12 +5,12 @@ import { ExternalLink, Github } from "lucide-react"
 
 const projects = [
   {
-    title: "E-Commerce con Personalización Inteligente",
+    title: "Back office administrativo y creacion de landing page",
     description:
-      "Plataforma de comercio electrónico con carrito adaptativo, recomendaciones personalizadas y panel de administración modular por roles de usuario.",
-    highlights: ["Carrito que se adapta al comportamiento", "Panel admin personalizable", "Sistema de pagos integrado"],
-    tech: ["React", "Spring Boot", "MySQL", "TailwindCSS"],
-    status: "En desarrollo",
+      "Desarrollo de Paneles Administrativos y de Clientes (Back Office). Creación de Landing Pages personalizada.",
+    highlights: ["Layout público con validación OTP (Código de Un Solo Uso)", "Importador de Usuarios a través de archivos CSV", " Creación de reportes de actividad exportables en formatos PDF y CSV"],
+    tech: ["React", "Node JS", "Dbeaver", "Chakra UI"],
+    status: "Completado",
     github: "#",
     demo: "#",
   },

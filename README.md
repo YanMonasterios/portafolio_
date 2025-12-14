@@ -1,4 +1,4 @@
-# Portafolio v2 - Portafolio de Desarrollador Moderno
+# Portafolio
 
 Un sitio web de portafolio elegante y moderno construido con Next.js 14, TypeScript y Tailwind CSS. Este portafolio muestra mis habilidades, proyectos y trayectoria profesional con un enfoque en diseño limpio y experiencia de usuario fluida.
 
@@ -25,7 +25,7 @@ Un sitio web de portafolio elegante y moderno construido con Next.js 14, TypeScr
 ## 📁 Estructura del Proyecto
 
 ```
-portafolio-v2/
+portafolio/
 ├── app/                    # Directorio app de Next.js
 │   ├── api/               # Rutas API
 │   ├── globals.css        # Estilos globales
@@ -86,21 +86,6 @@ EMAIL_PASS=tu-contraseña-de-aplicación
 EMAIL_TO=email-destinatario@ejemplo.com
 ```
 
-## 🎯 Personalización
-
-### Información Personal
-Actualiza tu información personal en:
-- `components/sections/hero-section.tsx`
-- `components/sections/about-section.tsx`
-- `components/sections/contact-section.tsx`
-
-### Proyectos
-Agrega tus proyectos al archivo de datos de proyectos o actualiza el componente de la sección de proyectos.
-
-### Estilos
-- Modifica los colores en `tailwind.config.js`
-- Actualiza los estilos globales en `app/globals.css`
-- Personaliza los estilos de los componentes según sea necesario
 
 ## 📱 Diseño Responsivo
 
@@ -135,31 +120,6 @@ pnpm lint
 # Verificación de tipos
 pnpm type-check
 ```
-
-## 🚢 Despliegue
-
-### Vercel (Recomendado)
-1. Sube tu código a GitHub
-2. Importa tu repositorio en [Vercel](https://vercel.com)
-3. Despliega con configuración cero
-
-### Otras Plataformas
-El portafolio también puede ser desplegado en:
-- Netlify
-- GitHub Pages
-- AWS Amplify
-- Cualquier plataforma de hosting Node.js
-
-## 🤝 Contribuyendo
-
-¡Las contribuciones son bienvenidas! Siéntete libre de:
-- Reportar errores
-- Sugerir características
-- Enviar pull requests
-
-## 📄 Licencia
-
-Este proyecto es de código abierto y está disponible bajo la [Licencia MIT](LICENSE).
 
 ## 📞 Contacto
 
