@@ -9,7 +9,7 @@ export async function POST(request: NextRequest) {
 
     await resend.emails.send({
       from: "Formulario <onboarding@resend.dev>",
-      to: "yankevyn02@gmail.com",
+      to: "casamagistv2301@gmail.com",
       subject: subject,
       replyTo: email,
       text: `Nombre: ${name}\nCorreo del cliente: ${email}\n\nMensaje:\n${message}`,

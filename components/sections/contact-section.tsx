@@ -78,7 +78,7 @@ export function ContactSection() {
                   <div className="flex items-center space-x-3">
                     <Mail className="w-5 h-5 text-primary" />
                     <a 
-                      href="mailto:yankevyn02@gmail.com" 
+                      href="mailto:casamagistv2301@gmail.com" 
                       className="hover:text-primary transition-colors duration-200"
                       aria-label="Enviar email a yankevyn02@gmail.com"
                     >
@@ -103,7 +103,7 @@ export function ContactSection() {
                     <li>✅ Pasión por aprender nuevas tecnologías</li>
                   </ul>
                   <Button asChild className="w-full">
-                    <a href="mailto:yankevyn02@gmail.com?subject=Consulta desde tu portafolio&body=Hola Yan,%0D%0A%0D%0ATengo una consulta sobre...">
+                    <a href="mailto:casamagistv2301@gmail.com?subject=Consulta desde tu portafolio&body=Hola Yan,%0D%0A%0D%0ATengo una consulta sobre...">
                       <Mail className="w-4 h-4 mr-2" />
                       Enviar Email Directo
                     </a>
