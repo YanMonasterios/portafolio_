@@ -114,7 +114,7 @@ export function ProjectsSection() {
           <div className="text-center mt-16">
             <p className="text-lg text-muted-foreground mb-6">¿Interesado en ver más proyectos o colaborar conmigo?</p>
             <Button size="lg" asChild>
-              <a href="https://github.com/FoTrix" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/YanMonasterios" target="_blank" rel="noopener noreferrer">
                 <Github className="w-5 h-5 mr-2" />
                 Ver más en GitHub
               </a>
